@@ -6,9 +6,11 @@
 ## Python Projects:
 1. **Cook County Housing (part 1)**: exploratory data analysis (EDA) of extensive housing data from Cook County, Illinois and data processing pipeline using *pandas*.
 2. **Cook County Housing (part 2)**: usage of *scikit-learn* to build and fit linear models, feature engineering, and *matplotlib* on processed data from Cook County Housing (part 1). 
-3. **Ants**: a tower defense game inspired by PopCap Games' Plants Vs. Zombies mainly focusing on object-oriented programming. 
-4. **Cats**: a program inspired by typeracer that measures typing speed with autocorrect.
-5. **Hog**: simulation of a strategy-based two-player dice game. 
+3. **Neural Net - ReLu vs. Sigmoid**: basic simulation of a neural network to explore the differences between ReLu and Sigmoid activation functions.
+4. **Ants**: a tower defense game inspired by PopCap Games' Plants Vs. Zombies mainly focusing on object-oriented programming. 
+5. **Cats**: a program inspired by typeracer that measures typing speed with autocorrect.
+6. **Hog**: simulation of a strategy-based two-player dice game. 
+
 
 ## Other: 
 1. **Scheme**: an interpreter for a subset of the Scheme language

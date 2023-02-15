@@ -10,7 +10,7 @@
 4. **Ants**: a tower defense game inspired by PopCap Games' Plants Vs. Zombies mainly focusing on object-oriented programming. 
 5. **Cats**: a program inspired by typeracer that measures typing speed with autocorrect.
 6. **Hog**: simulation of a strategy-based two-player dice game. 
-7. Tuning a Weather Model: presentation of my project through the Science and Engineering Apprenticeship Program at the Naval Postgraduate School. *Due to government restrictions, I am unable to directly share the code for the project.* 
+7. **Tuning a Weather Model**: presentation of my project through the Science and Engineering Apprenticeship Program at the Naval Postgraduate School. *Due to government restrictions, I am unable to directly share the code for the project.* 
 
 ## Other: 
 1. **Scheme**: an interpreter for a subset of the Scheme language
